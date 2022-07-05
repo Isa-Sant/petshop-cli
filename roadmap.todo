@@ -13,7 +13,7 @@ literal que será exportado.
   . Essa função deve retornar o cachorro com o id buscado ou emitir um erro
     caso não exista cachorro com o id buscado.
 
-☐ Crie uma função chamada listar
+☐ Crie uma função chamada listar.
   . Essa função deve imprimir no console uma tabela
     com as informações dos cachorros cadastrados.
     Dica: experimente a função console.table
@@ -68,9 +68,9 @@ literal que será exportado.
     não exista um cachorro com o id passado.
 
 ☐  Crie uma função chamada remover
-  . Essa função deve remover um cachorro do array de serviços.
+  . Essa função deve remover um cachorro do array e salvar um array no arquivo.
   . Ela deve recber um único parâmetro
-    + id  (Id cachorro do cachorro a ser vacinado)
+    + id  (Id cachorro do cachorro)
   . Essa função não deve retornar nada
   . Essa função deve imprimir uma mensagem "Cachorro inexistente"
     não exista um cachorro com o id passado.
